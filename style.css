@@ -1,4 +1,4 @@
-/* Stylesheet for the OA Chapter/Lodge Template HTML Version 2016-10-02 */
+/* Stylesheet for the OA Chapter/Lodge Template HTML Version 2016-10-04 */
 /* Hair Technical Services: hairtechsrv.com */
 /* flexnav by Jason Weaver http://jasonweaver.name/lab/flexiblenavigation/ */
 
@@ -296,7 +296,7 @@ table {
 }
 table, td, th {border: 1px solid #E51937;}
 th {
-	color: #000;
+	color: #FFFFFF;
 	background-color: #E51937;
 }
 td, th {padding: 5px;}
